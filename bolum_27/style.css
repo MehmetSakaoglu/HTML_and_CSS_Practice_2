@@ -1,0 +1,6 @@
+::selection {
+    background-color: yellow;
+}
+p::selection {
+    background-color: red;
+}
